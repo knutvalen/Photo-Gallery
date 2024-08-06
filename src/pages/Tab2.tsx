@@ -1,4 +1,3 @@
-import ExploreContainer from '../components/ExploreContainer';
 import './Tab2.css';
 import { camera } from 'ionicons/icons';
 import {
