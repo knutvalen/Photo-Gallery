@@ -55,7 +55,6 @@ const Tab2: React.FC = () => {
             },
             {
               text: 'Cancel',
-              icon: close,
               role: 'cancel',
             },
           ]}
